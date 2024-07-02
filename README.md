@@ -1,4 +1,3 @@
-# CODETECH-Task1
 Name: B Shireesha
 Company name: CODETECH IT SOLUTIONS
 ID: CT12WD196
@@ -30,4 +29,3 @@ PROJECT NAME: TO-DO LIST WEB APPLICATION USING HTML CSS AND JAVASCRIPT
  The main purpose of CSS code is to style and design web pages created using HTML..
  The main purpose of Javascript is to add interactivity and dynamic behaviour to web pages.It allows you to create responsive elements like animations,pop-ups etc..
 
- 
