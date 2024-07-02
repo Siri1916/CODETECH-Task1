@@ -29,5 +29,5 @@ PROJECT NAME: TO-DO LIST WEB APPLICATION USING HTML CSS AND JAVASCRIPT
  The main purpose of CSS code is to style and design web pages created using HTML.. 
  The main purpose of Javascript is to add interactivity and dynamic behaviour to web pages.It allows you to create responsive elements like animations,pop-ups etc..
 
- ![To Do List image](https://github.com/Siri1916/CODETECH-Task1/assets/174416911/2513cbe3-f984-4ce7-b5b8-35c2080ea1f5)
+
 
