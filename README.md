@@ -30,7 +30,10 @@ PROJECT NAME: TO-DO LIST WEB APPLICATION USING HTML CSS AND JAVASCRIPT
  The main purpose of Javascript is to add interactivity and dynamic behaviour to web pages.It allows you to create responsive elements like animations,pop-ups etc..
 
 
- ![WhatsApp Image 2024-07-02 at 20 10 53_686b6abe](https://github.com/Siri1916/CODETECH-Task1/assets/174416911/fc7239e7-ed71-4774-a593-f3e88bebff77)
+ 
+
+ 
+
 
 
 
